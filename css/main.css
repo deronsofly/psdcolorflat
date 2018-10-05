@@ -1,0 +1,48 @@
+.bg-lightblue{
+	background-color: lightblue;
+}
+.white{
+	vertical-align: middle;
+	color: white;
+	width: 85%;
+}
+.sumry{
+	font-size: 11px;
+	width: 100%;
+}
+.rcntwrk{
+	color: white;
+	padding-bottom: 10px;
+	padding-top: 20px;
+}
+.MOT{
+	background-color: pink;
+}
+.profile{
+	margin: 0 10px 0 10px;
+}
+.profile img{
+	width: 100%;
+}
+.fa-pinterest{
+	color: red;
+	padding: 10px;
+	font-size: 25px;
+}
+.fa-facebook-f
+{
+ color: blue;
+ font-size: 25px;
+ padding:10px;
+}
+.fa-twitter{
+ color: lightblue;
+ font-size: 25px;
+ padding:10px;
+}
+.RP{
+	background-color: lightblue; 
+}
+.input-big{
+	padding:80px;
+}
